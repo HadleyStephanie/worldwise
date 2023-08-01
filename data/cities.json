@@ -37,14 +37,14 @@
       "id": 98443197
     },
     {
-      "cityName": "Auckland",
-      "country": "New Zealand",
-      "emoji": "🇳🇿",
-      "date": "2023-12-16T00:21:56.000Z",
-      "notes": "It's happening!",
+      "cityName": "Quito",
+      "country": "Ecuador",
+      "emoji": "🇪🇨",
+      "date": "2023-08-01T18:00:13.161Z",
+      "notes": "Wonderful time!",
       "position": {
-        "lat": "-36.85105444755649",
-        "lng": "174.75952148437503"
+        "lat": "-0.23071226715249907",
+        "lng": "-78.50280761718751"
       },
       "id": 98443198
     }
